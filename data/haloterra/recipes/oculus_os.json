@@ -1,0 +1,28 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "pattern" : [
+        "#Z#",
+        "OEA",
+        "ZEZ"
+    ],
+    "key" : {
+        "#" : {
+            "item" : "haloterra:cpu"
+        },
+        "E" : {
+            "item" : "minecraft:diamond"
+        },
+        "O" : {
+            "item" : "minecraft:diamond_sword"
+        },
+        "A" : {
+            "item" : "minecraft:shield"
+        },
+        "Z" : {
+            "item" : "haloterra:projector_module"
+        }
+    },
+    "result" : {
+        "item" : "haloterra:oculus_os"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "pattern" : [
+        "VAV",
+        "O#Z",
+        "EBE"
+    ],
+    "key" : {
+        "#" : {
+            "item" : "haloterra:main_implant"
+        },
+        "A" : {
+            "item" : "haloterra:screen"
+        },
+        "E" : {
+            "item" : "haloterra:battery"
+        },
+        "O" : {
+            "item" : "haloterra:uam"
+        },
+        "B" : {
+            "item" : "haloterra:clsc"
+        },
+        "Z" : {
+            "item" : "haloterra:ai_module"
+        },
+        "V" : {
+            "item" : "haloterra:cpu"
+        }
+    },
+    "result" : {
+        "item" : "haloterra:inactive_rehoboam"
+    }
+}

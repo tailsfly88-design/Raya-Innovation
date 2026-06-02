@@ -1,0 +1,19 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "pattern" : [
+        "###",
+        "EEE",
+        "EEE"
+    ],
+    "key" : {
+        "#" : {
+            "item" : "haloterra:ai_module"
+        },
+        "E" : {
+            "item" : "haloterra:cpu"
+        }
+    },
+    "result" : {
+        "item" : "haloterra:uam"
+    }
+}

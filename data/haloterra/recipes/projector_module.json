@@ -1,0 +1,23 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "pattern" : [
+        "#EA",
+        "EAE",
+        "AE#"
+    ],
+    "key" : {
+        "#" : {
+            "item" : "haloterra:transistorpack"
+        },
+        "E" : {
+            "item" : "minecraft:glowstone_dust"
+        },
+        "A" : {
+            "item" : "minecraft:diamond"
+        }
+    },
+    "result" : {
+        "item" : "haloterra:projector_module",
+        "count" : 2
+    }
+}
